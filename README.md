@@ -1,6 +1,5 @@
 # Gokart
-A responsive e-commerce website built by using HTML,CSS,Bootstrap,JavaScript,PHP and MySQL database.<br/>
-*Check this out at:* [gokart](gokart.ml)
+A responsive e-commerce website built by using HTML,CSS,Bootstrap,JavaScript,PHP and MySQL database.
 ## Screenshots
 *Some Glimpses of the website:*<br/>
 <br/>
